@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IceCream Chocolate
+  m_Shader: {fileID: 4800000, guid: 3d8fff7ea512a0641bb8958a4e0b45f2, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _CurvatureMap:
+        m_Texture: {fileID: 2800000, guid: 332310c8813402643ba2dceb28f0a804, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClipThreshold: 0.51
+    - _AlphaCutoff: 0.5
+    - _Area: 0.02
+    - _ColorSmoothStepMax: 0.33
+    - _ColorSmoothStepMin: 0
+    - _Float0: 0.5
+    - _Float2: 0.02
+    - _Float3: 2.67
+    - _Grow: 1
+    - _GrowMax: 2.59
+    - _GrowMin: 0.27
+    - _MAxNew: 0.6
+    - _MinNew: -0.5
+    - _Power: 2.52
+    - _RimPower: 1.64
+    - _ShadowIntensity: 0.22
+    - _Shrink: -100
+    - _SmoothStepMax: 0.09
+    - _SmoothStepMin: 0
+    - _SpecularIntensity: 0
+    - _SpecularPower: 1.4
+    - _SpecularStep: 0.2
+    - _step: 0.2
+    - _w: 1
+    m_Colors:
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MainColor: {r: 0.4339623, g: 0.2446876, b: 0.2272161, a: 0}
+    - _RimColor: {r: 0.24528301, g: 0.07983268, b: 0.07983268, a: 0}
+    - _ShadowTint: {r: 0.33962262, g: 0.15305713, b: 0.13296545, a: 0}
+    - _SpecularColor: {r: 0.7924528, g: 0.58686364, b: 0.58686364, a: 0}
+  m_BuildTextureStacks: []
